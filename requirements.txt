@@ -1,3 +1,8 @@
 garminconnect
 curl_cffi
 python-dotenv
+pandas
+numpy
+scipy
+statsmodels
+matplotlib
