@@ -1,0 +1,13 @@
+CLAUDE.md
+
+# secrets
+.env
+
+# data (raw pulls, derived db, bulk export zip)
+data/
+
+# python
+.venv/
+.venv-1/
+__pycache__/
+*.pyc
